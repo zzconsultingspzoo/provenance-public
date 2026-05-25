@@ -1,0 +1,6 @@
+# Service-internal files (never committed to public repo)
+*.env
+*.token
+*.key
+*.asc
+**/private/**
